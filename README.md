@@ -1,28 +1,12 @@
-# Staff Data Scientist | MSc in Statistics | PhD Candidate | Professor
+# Hi, I'm Caio Balieiro 👋
 
-<p align="left">
-  <a href="https://caiogbb.github.io/pt/" target="_blank">
-    <img src="https://img.shields.io/badge/Personal_Website-Visit_My_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website">
-  </a>
-</p>
+## Staff Data Scientist | MSc in Statistics | PhD Candidate | Professor
 
----
+I am a **Staff Data Scientist**, researcher, and professor with experience in statistics, machine learning, artificial intelligence, data engineering, and the development of data-driven products.
 
-## 📫 Connect with Me
+I hold a **Master’s degree in Statistics from the Federal University of Minas Gerais — UFMG** and I am currently pursuing a **PhD in Applied Mathematics**.
 
-<p align="left">
-  <a href="https://caiogbb.github.io/pt/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-caiogbb.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website">
-  </a>
-
-  <a href="mailto:caio.balieiro@ufam.edu.br">
-    <img src="https://img.shields.io/badge/Email-caio.balieiro%40ufam.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-
-  <a href="https://github.com/caiogbb" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-caiogbb-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+My work combines statistical rigor, software engineering, cloud computing, and business understanding to transform complex data into intelligent and scalable solutions.
 
 ---
 
@@ -38,9 +22,9 @@
 * Survival Analysis
 * Spatial Statistics
 * Statistical Modeling and Inference
-* Data Mining
-* Exploratory Data Analysis
+* Data Mining and Exploratory Data Analysis
 * MLOps and Production Machine Learning
+* Cloud Computing
 * Data Visualization and Interactive Applications
 
 ---
@@ -69,6 +53,13 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
 
+### Cloud Platforms
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge\&logo=googlebigquery\&logoColor=white)
+
 ### Data Engineering and MLOps
 
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
@@ -78,11 +69,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-### Cloud, Databases and Vector Search
+### Databases and Vector Search
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge\&logo=googlebigquery\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge\&logo=googlebigquery\&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge)
 
 ### Data Applications and Visualization
@@ -97,28 +87,44 @@
 
 ## 🚀 What I Do
 
-I design and develop data-driven solutions that transform complex datasets into actionable insights and intelligent products.
+I design and develop end-to-end data science and artificial intelligence solutions that transform complex datasets into actionable insights and intelligent products.
 
 My work includes:
 
 * Developing statistical, machine learning, and deep learning models
-* Building NLP and Generative AI applications
+* Building Natural Language Processing and Generative AI applications
 * Creating recommendation and customer segmentation systems
 * Modeling and monitoring industrial time-series data
-* Developing anomaly detection solutions
+* Developing predictive maintenance and anomaly detection solutions
 * Creating APIs and automated machine learning pipelines
-* Orchestrating workflows with Apache Airflow
-* Tracking and managing experiments with MLflow
-* Deploying reproducible applications using Docker
-* Integrating AI models with cloud and production environments
-* Building interactive analytical applications with Streamlit and Shiny
-* Communicating technical results to both technical and business audiences
+* Orchestrating data and model workflows with Apache Airflow
+* Managing machine learning experiments with MLflow
+* Deploying reproducible applications and services using Docker
+* Integrating AI solutions with GCP and AWS environments
+* Building scalable data pipelines and cloud-based solutions
+* Developing interactive applications with Streamlit and Shiny
+* Communicating technical results to business and technical audiences
+
+---
+
+## ☁️ Cloud Experience
+
+I have experience developing and integrating data science and artificial intelligence solutions using cloud environments, including:
+
+* **Google Cloud Platform — GCP**
+* **Amazon Web Services — AWS**
+* BigQuery data processing and analytics
+* Vertex AI model development and integration
+* Cloud-based machine learning pipelines
+* Data storage, processing, deployment, and monitoring
+* Integration of APIs, databases, and production systems
+* Scalable architecture for data and artificial intelligence applications
 
 ---
 
 ## 🎓 Research and Teaching
 
-I am passionate about teaching and sharing knowledge in:
+I am passionate about teaching, research, and knowledge sharing in areas such as:
 
 * Statistics
 * Data Science
@@ -127,14 +133,15 @@ I am passionate about teaching and sharing knowledge in:
 * Data Mining
 * Generative AI
 * Statistical Computing
+* Programming for Data Science
 
-I have experience teaching university-level courses and supporting students in the development of practical and research-oriented data science projects.
+I have experience teaching university-level courses and supporting students in the development of practical, academic, and research-oriented data science projects.
 
 ---
 
 ## 💡 Professional Interests
 
-I am particularly interested in applying statistical methods and artificial intelligence to solve real-world problems in areas such as:
+I am particularly interested in applying statistical methods, machine learning, and artificial intelligence to real-world problems involving:
 
 * Industrial process monitoring
 * Predictive maintenance
@@ -143,22 +150,28 @@ I am particularly interested in applying statistical methods and artificial inte
 * Fraud and churn detection
 * Marketing intelligence
 * Natural Language Processing
+* Time-series modeling
 * Business process automation
 * Generative AI applications
+* Cloud-based artificial intelligence solutions
 
-I believe that the best data science solutions combine **statistical rigor, software engineering, business understanding, and clear communication**.
+I believe that successful data science solutions combine **statistical rigor, software engineering, cloud architecture, business understanding, and clear communication**.
 
 ---
 
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:caio.balieiro@ufam.edu.br">
-    <img src="https://img.shields.io/badge/Email-caio.balieiro%40ufam.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://caiogbb.github.io/pt/" target="_blank">
+    <img src="https://img.shields.io/badge/Personal_Website-caiogbb.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website">
   </a>
 
-  <a href="https://github.com/caiogbb">
-    <img src="https://img.shields.io/badge/GitHub-caiogbb-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="mailto:caio.balieiro@ufam.edu.br">
+    <img src="https://img.shields.io/badge/Email-caio.balieiro%40ufam.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+  <a href="https://github.com/caiogbb" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-caiogbb-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
