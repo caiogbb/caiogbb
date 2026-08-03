@@ -150,23 +150,6 @@ I believe that the best data science solutions combine **statistical rigor, soft
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=caiogbb&show_icons=true&include_all_commits=true&count_private=true"
-    alt="Caio Balieiro's GitHub statistics"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiogbb&layout=compact&langs_count=8"
-    alt="Most used languages"
-  />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="left">
