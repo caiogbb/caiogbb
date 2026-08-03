@@ -1,4 +1,4 @@
-### Specialist Data Scientist | MSc in Statistics | PhD Candidate
+# Staff Data Scientist | MSc in Statistics | PhD Candidate | Professor
 
 <p align="left">
   <a href="https://caiogbb.github.io/pt/" target="_blank">
