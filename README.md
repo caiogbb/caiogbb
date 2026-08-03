@@ -1,12 +1,28 @@
-# Hi, I'm Caio Balieiro 👋
-
 ### Specialist Data Scientist | MSc in Statistics | PhD Candidate
 
-I am a **Specialist Data Scientist** with a strong background in statistics, machine learning, artificial intelligence, and software development.
+<p align="left">
+  <a href="https://caiogbb.github.io/pt/" target="_blank">
+    <img src="https://img.shields.io/badge/Personal_Website-Visit_My_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website">
+  </a>
+</p>
 
-I hold a **Master’s degree in Statistics from the Federal University of Minas Gerais — UFMG** and I am currently pursuing a **PhD in Applied Mathematics**.
+---
 
-I have experience developing end-to-end data science solutions, from exploratory data analysis and statistical modeling to model deployment, workflow orchestration, monitoring, and integration with production systems.
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://caiogbb.github.io/pt/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-caiogbb.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website">
+  </a>
+
+  <a href="mailto:caio.balieiro@ufam.edu.br">
+    <img src="https://img.shields.io/badge/Email-caio.balieiro%40ufam.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+  <a href="https://github.com/caiogbb" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-caiogbb-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
 
