@@ -4,7 +4,7 @@
 
 I am a **Staff Data Scientist**, researcher, and professor with experience in statistics, machine learning, artificial intelligence, data engineering, and the development of data-driven products.
 
-I hold a **Master’s degree in Statistics from the Federal University of Minas Gerais — UFMG** and I am currently pursuing a **PhD in Applied Mathematics**.
+I hold a **Master’s degree in Statistics from the Federal University of Minas Gerais - UFMG** and I am currently pursuing a **PhD in Applied Mathematics**.
 
 My work combines statistical rigor, software engineering, cloud computing, and business understanding to transform complex data into intelligent and scalable solutions.
 
